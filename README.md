@@ -2,7 +2,7 @@
 
 Welcome to DRM bot made by @nikhil.saini.khe (Instagram)
 
-> **command**
+> **/start**
 
 > /start start the bot.  
 > /stop stop the bot.  
